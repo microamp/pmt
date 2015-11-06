@@ -1,0 +1,5 @@
+[style]
+based_on_style = pep8
+blank_line_before_nested_class_or_def = false
+column_limit = 99
+spaces_before_comment = 2
