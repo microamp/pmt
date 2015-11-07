@@ -15,8 +15,6 @@ sudo pip install pylint
 sudo pip install yapf
 ```
 
-Note: Make sure there are no other Python linters installed in your system.
-
 Installation
 ------------
 
