@@ -18,13 +18,12 @@ sudo pip install yapf
 Installation
 ------------
 
-Create symlinks to your home directory.
+Create symlinks to your home directory by running `install.sh`.
 
 ```bash
 git clone git@github.com:microamp/pmt.git
-ln -s $PWD/pmt/.pylintrc $HOME/.pylintrc
-mkdir -p $HOME/.config/yapf
-ln -s $PWD/pmt/.style.yapf $HOME/.config/yapf/style
+cd pmt
+./install.sh
 ```
 
 Editor Support
