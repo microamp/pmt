@@ -35,4 +35,4 @@ See [YAPF's IDE Plugins](https://github.com/google/yapf/blob/master/plugins/READ
 License
 -------
 
-CC0 1.0
+AGPL-3.0
